@@ -11,3 +11,5 @@ git add .
 git status
 git commit -m " git pushed through terminal"
 git push
+
+using cmd line push
