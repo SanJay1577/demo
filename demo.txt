@@ -2,3 +2,12 @@
 
 demo text content for task 
 second line added through vs code
+going to push throigh terminal
+
+// commands 
+git status 
+git diff filename -> optional
+git add .
+git status
+git commit -m " git pushed through terminal"
+git push
